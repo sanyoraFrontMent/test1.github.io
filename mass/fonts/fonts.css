@@ -1,0 +1,23 @@
+@font-face {
+  font-family: 'NuberNext';
+	src: url('NuberNext/Regular/NuberNext-Regular.eot');
+	src: local('☺'), url('NuberNext/Regular/NuberNext-Regular.woff') format('woff'), url('NuberNext/Regular/NuberNext-Regular.ttf') format('truetype'), url('NuberNext/Regular/NuberNext-Regular.svg') format('svg');
+	font-weight: 400;
+	font-style: normal;
+}
+
+@font-face {
+	font-family: 'NuberNext';
+	src: url('NuberNext/Heavy/NuberNext-Heavy.eot');
+	src: local('☺'), url('NuberNext/Heavy/NuberNext-Heavy.woff') format('woff'), url('NuberNext/Heavy/NuberNext-Heavy.ttf') format('truetype'), url('NuberNext/Heavy/NuberNext-Heavy.svg') format('svg');
+	font-weight: 900;
+	font-style: normal;
+}
+
+@font-face {
+	font-family: 'NuberNext';
+	src: url('NuberNext/DemiBold/NuberNext-DemiBold.eot');
+	src: local('☺'), url('NuberNext/DemiBold/NuberNext-DemiBold.woff') format('woff'), url('NuberNext/DemiBold/NuberNext-DemiBold.ttf') format('truetype'), url('NuberNext/DemiBold/NuberNext-DemiBold.svg') format('svg');
+	font-weight: 600;
+	font-style: normal;
+}
